@@ -36,6 +36,7 @@ ul{
     margin-right: 2%;
 }
 
+
 li{
     list-style: none;
     padding: 1%;
@@ -49,6 +50,12 @@ li a{
     color: black;
     font-size: 13px;
 }
+
+li :hover{
+    font-size: 110%;
+    color: #1C6C7D;
+}
+
 .logo img {
     width: 75px;
 }
